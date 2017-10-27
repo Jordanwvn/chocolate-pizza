@@ -1,0 +1,79 @@
+.recipe p {
+  font-size: 22px;
+  color: #444;
+  text-indent: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  line-height: 25px;
+}
+
+.checklist img {
+  position: absolute;
+}
+
+.checklist li {
+  font-family: "Patrick Hand";
+  color: #6c6946;
+  font-size: 22px;
+  margin-bottom: 9px;
+  position: relative;
+}
+
+#list-one {
+  position: relative;
+  top: 41px;
+  left:100px;
+}
+
+#list-two {
+  position: relative;
+  top: -145px;
+  left: 500px;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.author img {
+  float: left;
+}
+
+.author div {
+  margin-left: 25px;
+  float: left;
+  width: 600px;
+}
+
+.auth_name {
+  font-size: 24;
+  font-weight: bold;
+}
+
+#submit_button {
+  float: right;
+  background-color: #bc7058;
+  border: none;
+  color: white;
+  padding: 0px 32px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: "Chathura";
+  font-size: 38px;
+}
+
+footer p {
+  color: #444;
+  text-align: center;
+  font-size: 12px;
+}
+
+footer img {
+  clear: both;
+  display: block;
+  margin: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
