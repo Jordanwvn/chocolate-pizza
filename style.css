@@ -1,3 +1,89 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  height: 75px;
+  margin-top: 40px;
+}
+
+header section img {
+  float: left;
+  margin-right: 2px;
+  margin-top: 5px;
+  }
+
+header div {
+  float:left;
+}
+
+header h2 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 35px;
+}
+
+header h3 {
+  font-family: 'Chathura', sans-serif;
+  font-family: 'Chathura', sans-serif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+header li.rss {
+  margin-left: 8px;
+}
+
+header li {
+  float: right;
+  margin-left: 0;
+}
+
+.shadow {
+  clear: both;
+  height: 10px;
+  background-image: repeating-linear-gradient(45deg, transparent, transparent 6px, black 7px, black 6px);
+  margin-bottom: 50px;
+}
+
+section.title h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+
+section.title ul {
+
+}
+
+section.title li {
+  float: left;
+}
+
+ul.print {
+  float: right;
+}
+
+ul.print img {
+  height: 10px;
+  margin-top: 8px;
+}
+
+section.title h2 {
+  font-family: 'Chathura', sans-serif;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.50);
+  margin-bottom: 30px;
+}
+
+section.title p {
+  font-family: 'Chathura', sans-serif;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+section.hero img {
+  width: 100%;
+
 .recipe p {
   font-size: 22px;
   color: #444;
@@ -76,4 +162,5 @@ footer img {
   margin: auto;
   padding-top: 25px;
   padding-bottom: 25px;
+
 }
