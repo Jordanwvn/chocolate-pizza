@@ -1,0 +1,72 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  height: 100px;
+  margin-top: 40px;
+}
+
+header section img {
+  float: left;
+  margin-right: 10px;
+}
+
+header div {
+  float:left;
+}
+
+header h2 {
+  font-family: 'Yellowtail', cursive;
+
+}
+
+header h3 {
+  font-family: 'Chathura', sans-serif;
+}
+
+header ul {
+
+}
+
+header li {
+  float: right;
+  margin-left: 0;
+}
+
+.shadow {
+  clear: both;
+  height: 10px;
+  background-image: repeating-linear-gradient(45deg, transparent, transparent 6px, black 7px, black 6px);
+
+
+}
+
+section.title h1 {
+  font-family: 'Khand', sans-serif;
+}
+
+section.title ul {
+
+}
+
+section.title li {
+  float: left;
+}
+
+ul.print {
+  float: right;
+}
+
+section.title h2 {
+  font-family: 'Chathura', sans-serif;
+}
+
+section.title p {
+  font-family: 'Chathura', sans-serif;
+}
+
+section.hero img {
+  width: 100%;
+}
